@@ -96,6 +96,9 @@ You'll love the slick user interface, extraordinary features and amazing perform
 #### [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
    - Code editing. Redefined. Free. Open source. Runs everywhere.
 
+#### [IntelliJ IDEA](https://www.jetbrains.com/) - The drive to develop with a price.
+   - Whichever technologies you use, there's a JetBrains tool to match.
+
 ## Design
 
 #### [coolhueh](ttps://webkul.github.io/coolhue/) - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
