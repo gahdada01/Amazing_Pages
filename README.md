@@ -2,7 +2,7 @@
 
 ## [Git Hub](https://github.com/open-source)
 ### The largest open source community in the world
-	`Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.`
+   - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
 ## Code Academy
 
