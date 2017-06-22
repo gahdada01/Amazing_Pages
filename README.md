@@ -78,6 +78,9 @@
 ## IDE
 ##### Integrated development environment
 
+#### [60 lists of Recommended IDE](https://www.slant.co/topics/12/~best-programming-text-editors) - 60 lists of IDE 'Recommended Products'.
+   - A text editor is a program that is used for the purpose of editing plain text files. In the context of this question, a programming text editor is used for writing code and has features that help developers with their tasks, such as auto-indentation or automatic code formatting.
+
 #### [Sublime Text](http://www.sublimetext.com/) - Sublime Text is a sophisticated text editor for code, markup and prose.
    - Sublime Text is a sophisticated text editor for code, markup and prose.
 You'll love the slick user interface, extraordinary features and amazing performance.
