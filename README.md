@@ -4,15 +4,19 @@
 ## Table of Contents
    - [Development](#development)
    		- [Web](#web-tools)
+   		- [Design](#design)
    - [Random](#random)
 
 
 ## Development
 
 ### Web Tools
+
 #### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
+##### [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax.
+   
 ## Fiddle
 
 `http://jsfiddle.net/`
@@ -32,14 +36,6 @@
 #### [Nucleo](https://nucleoapp.com/) - Nucleo is a library of icons with super powers.
    - Search, Customize, Export 8387 Icons.
 
-#### [Paletton](http://paletton.com/) - The Color Scheme Designer.
-   - The Color Scheme Designer
-
-#### [Dribble](https://dribbble.com/) - Show and tell for designers
-   - What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.
-
-`https://dribbble.com/shots/2921655-Dashboard/attachments/606194`
-
 ## Bootstrap
 
 `http://getbootstrap.com/`
@@ -48,21 +44,39 @@
 
 `https://bootswatch.com/`
 
+## Regexr
+
+`http://regexr.com/`
+
+## Inspirational Pixels
+
+   - Inspirational Pixels (or just IP for short) started life back in September of 2013. I wanted a place to share all the tips, tricks and knowledge I learn every day in the hope of helping my fellow web designers and developers improve their craft.
+
+`http://inspirationalpixels.com/`
+`http://inspirationalpixels.com/articles/dribbble-shots-week-1`
+`http://inspirationalpixels.com/snippets/social-color-variables-sass`
+
+## Design
+
+#### [coolhueh](ttps://webkul.github.io/coolhue/) - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
+   - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
+
+#### Fontawesome Icons
+
+`http://fontawesome.io/icons/`
+
 ## Code Pen
 
 `https://codepen.io/`
 
-## Inspirational Pixels
+#### [Dribble](https://dribbble.com/) - Show and tell for designers
+   - What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.
 
-`http://inspirationalpixels.com/`
+`https://dribbble.com/shots/2921655-Dashboard/attachments/606194`
 
-## Fontawesome Icons
+#### [Paletton](http://paletton.com/) - The Color Scheme Designer.
+   - The Color Scheme Designer
 
-`http://fontawesome.io/icons/`
-
-## Regexr
-
-`http://regexr.com/`
 
 ## Random
 #### Search Engine, Education and Fun Staff
@@ -90,9 +104,8 @@
 
 `https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scratch--webdesign-4975`
 
-## dzurico
-
-`http://www.dzurico.com/`
+#### [dzurico](http://www.dzurico.com/) - Blog about Angular and Javascript.
+   - Blog about Angular and Javascript.
 
 #### [Web Designer](https://1stwebdesigner.com/) - Helping you build a better web.
    - We are 1stWebDesigner and we’re on a mission to help you build a better web. The content you’ll find on this website has been created by web design professionals, for web design professionals. So whether you’re interested in learning more about web design or you want to contribute your work for the web design community’s edification, we have something for you.
