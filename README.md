@@ -3,7 +3,7 @@
 
 ## Table of Contents
    - [Development](#development)
-        - [Project Management](#project-managemnet)
+        - [Project Management](#project-management)
    		- [Web](#web-tools)
    		- [Editor](#ide)
    		- [Design](#design)
