@@ -4,7 +4,7 @@
 ## Table of Contents
    - [Development](#development)
    		- [Web](#web-tools)
-   - [Random](#random)
+   - [Random](#random:-search-engine,-education,-fun)
 
 
 ## Development
