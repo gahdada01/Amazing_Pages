@@ -13,12 +13,10 @@
 #### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
-### [Heroku](https://www.heroku.com/)
-#### Get straight to building apps.
+#### [Heroku](https://www.heroku.com/) - Get straight to building apps.
    - Setting up, operating and maintaining your own platform is not where the race is won. Avoid the risk and complexity, and dedicate your energy to what really matters: building great apps.
 
-### [RawGit](https://rawgit.com/)
-#### RawGit serves raw files directly from GitHub with proper Content-Type headers.
+#### [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
    - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
 #### [Code Academy](https://www.codecademy.com/) - Learn to code interactively, for free.
@@ -34,7 +32,7 @@
    - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
 ## Random
-#### Search Engine, Education, Fun
+#### Search Engine, Education and Fun Staff
 
 #### [Duck Duck Go](https://duckduckgo.com/) - DuckDuckGo is the search engine that doesn't track you.
    - We don’t store your personal information. Ever. We don’t follow you around with ads. We don’t track you in or out of private browsing mode.
