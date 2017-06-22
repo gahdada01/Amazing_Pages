@@ -73,9 +73,11 @@ Join them; it only takes a minute:
 #### [Inspirational Pixels](http://inspirationalpixels.com/) - Tutorials, Articles, Videos, Freebies and Resources.
    - Inspirational Pixels (or just IP for short) started life back in September of 2013. I wanted a place to share all the tips, tricks and knowledge I learn every day in the hope of helping my fellow web designers and developers improve their craft.
 
-`http://inspirationalpixels.com/`
-`http://inspirationalpixels.com/articles/dribbble-shots-week-1`
-`http://inspirationalpixels.com/snippets/social-color-variables-sass`
+```
+http://inspirationalpixels.com/
+http://inspirationalpixels.com/articles/dribbble-shots-week-1
+http://inspirationalpixels.com/snippets/social-color-variables-sass
+```
 
 
 
@@ -97,13 +99,15 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 ## Design
 
-#### [coolhueh](ttps://webkul.github.io/coolhue/) - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
+#### [coolhueh](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
    - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
 
 #### [Dribble](https://dribbble.com/) - Show and tell for designers
    - What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.
-
-`https://dribbble.com/shots/2921655-Dashboard/attachments/606194`
+   
+```
+https://dribbble.com/shots/2921655-Dashboard/attachments/606194
+```
 
 #### [Paletton](http://paletton.com/) - The Color Scheme Designer.
    - The Color Scheme Designer
@@ -134,8 +138,10 @@ You'll love the slick user interface, extraordinary features and amazing perform
 #### [Code Fights](https://codefights.com/) - Make coding fun again!
    - Keep your skills sharp by solving our challenges, or test your mettle against thousands of other engineers by joining a monthly tournament. Advance through skill levels while earning badges and XP for every win.
 
-`https://codefights.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/description`
-`https://codefights.com/arcade/intro/level-1`
+```
+https://codefights.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/description`
+https://codefights.com/arcade/intro/level-1
+```
 
 #### [Coding Bat](http://codingbat.com/) - Code practice of coding problems in Java and Python.
    - CodingBat is a free site of live coding problems to build coding skill in Java and Python.
@@ -143,7 +149,9 @@ You'll love the slick user interface, extraordinary features and amazing perform
 #### [Web Design](https://webdesign.tutsplus.com/) - Free tutorials, learning guides, and online courses to help you learn web design.
    - Free tutorials, learning guides, and online courses to help you learn web design. Whether it’s interface design, UX, front-end development, motion design, accessibility, business, or something you’ve not yet discovered, our team of expert instructors have you covered!
 
-`https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scratch--webdesign-4975`
+```
+https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scratch--webdesign-4975
+```
 
 #### [dzurico](http://www.dzurico.com/) - Blog about Angular and Javascript.
    - Blog about Angular and Javascript.
