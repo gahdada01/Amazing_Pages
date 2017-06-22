@@ -13,20 +13,56 @@
 #### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
+## Fiddle
+
+`http://jsfiddle.net/`
+
 #### [Heroku](https://www.heroku.com/) - Get straight to building apps.
    - Setting up, operating and maintaining your own platform is not where the race is won. Avoid the risk and complexity, and dedicate your energy to what really matters: building great apps.
 
 #### [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
    - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
-#### [Nucleo](https://nucleoapp.com/) - Nucleo is a library of icons with super powers.
-   - Search, Customize, Export 8387 Icons.
-
 #### [Semantic](https://semantic-ui.com/) - User Interface is the language of the web. Design Beautiful Websites Quicker.
    - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 
 #### [Sass](http://www.sass-lang.com/) - CSS with superpowers.
    - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+
+#### [Nucleo](https://nucleoapp.com/) - Nucleo is a library of icons with super powers.
+   - Search, Customize, Export 8387 Icons.
+
+#### [Paletton](http://paletton.com/) - The Color Scheme Designer.
+   - The Color Scheme Designer
+
+#### [Dribble](https://dribbble.com/) - Show and tell for designers
+   - What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.
+
+`https://dribbble.com/shots/2921655-Dashboard/attachments/606194`
+
+## Bootstrap
+
+`http://getbootstrap.com/`
+
+## Bootswatch
+
+`https://bootswatch.com/`
+
+## Code Pen
+
+`https://codepen.io/`
+
+## Inspirational Pixels
+
+`http://inspirationalpixels.com/`
+
+## Fontawesome Icons
+
+`http://fontawesome.io/icons/`
+
+## Regexr
+
+`http://regexr.com/`
 
 ## Random
 #### Search Engine, Education and Fun Staff
@@ -49,63 +85,20 @@
 #### [Coding Bat](http://codingbat.com/) - Code practice of coding problems in Java and Python.
    - CodingBat is a free site of live coding problems to build coding skill in Java and Python.
 
-## Web Design
+#### [Web Design](https://webdesign.tutsplus.com/) - Free tutorials, learning guides, and online courses to help you learn web design.
+   - Free tutorials, learning guides, and online courses to help you learn web design. Whether it’s interface design, UX, front-end development, motion design, accessibility, business, or something you’ve not yet discovered, our team of expert instructors have you covered!
 
 `https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scratch--webdesign-4975`
-
-## Paletton
-
-`http://paletton.com/#uid=1450u0k8toD2mDh5ctibUkFeDfy`
 
 ## dzurico
 
 `http://www.dzurico.com/`
 
-## Web Designer
+#### [Web Designer](https://1stwebdesigner.com/) - Helping you build a better web.
+   - We are 1stWebDesigner and we’re on a mission to help you build a better web. The content you’ll find on this website has been created by web design professionals, for web design professionals. So whether you’re interested in learning more about web design or you want to contribute your work for the web design community’s edification, we have something for you.
 
 `https://1stwebdesigner.com/`
-
-## Dribble
-
-`https://dribbble.com/`
-`https://dribbble.com/shots/2921655-Dashboard/attachments/606194`
-
-## Medium
-
-`https://medium.com/swlh/creative-form-input-field-design-examples-bfe5dd50808a`
-
-## Bootstrap
-
-`http://getbootstrap.com/`
-
-## Bootswatch
-
-`https://bootswatch.com/`
-
-## Fiddle
-
-`http://jsfiddle.net/`
-
-## Code Pen
-
-`https://codepen.io/`
-
-## Inspirational Pixels
-
-`http://inspirationalpixels.com/`
-
-## Fontawesome Icons
-
-`http://fontawesome.io/icons/`
-
-## Call Me Nick
-
-`http://callmenick.com/post/animating-css-only-hamburger-menu-icons`
-`http://callmenick.com/_development/icons-css3-transitions/index.html`
-
-## Regexr
-
-`http://regexr.com/`
+`http://hellomonday.com/`
 
 ## Site Point
 
@@ -114,6 +107,18 @@
 ## Stackoverflow
 
 `http://stackoverflow.com/`
+
+## Medium
+
+`https://medium.com/swlh/creative-form-input-field-design-examples-bfe5dd50808a`
+
+## Call Me Nick
+
+`http://callmenick.com/post/animating-css-only-hamburger-menu-icons`
+`http://callmenick.com/_development/icons-css3-transitions/index.html`
+
+
+
 
 ## Material
 
