@@ -76,10 +76,14 @@
 `http://inspirationalpixels.com/snippets/social-color-variables-sass`
 
 ## IDE
+##### Integrated development environment
 
 #### [Sublime Text](http://www.sublimetext.com/) - Sublime Text is a sophisticated text editor for code, markup and prose.
    - Sublime Text is a sophisticated text editor for code, markup and prose.
 You'll love the slick user interface, extraordinary features and amazing performance.
+
+#### [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+   - Code editing. Redefined. Free. Open source. Runs everywhere.
 
 ## Design
 
