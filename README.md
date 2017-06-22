@@ -4,7 +4,7 @@
 ## Table of Contents
    - [Development](#development)
    		- [Web](#web-tools)
-   - [Random](#random:-search-engine,-education,-fun)
+   - [Random](#random)
 
 
 ## Development
@@ -33,7 +33,8 @@
 #### [Sass](http://www.sass-lang.com/) - CSS with superpowers.
    - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
-## Random (Search Engine, Education, Fun)
+## Random
+####Search Engine, Education, Fun
 
 #### [Duck Duck Go](https://duckduckgo.com/) - DuckDuckGo is the search engine that doesn't track you.
    - We don’t store your personal information. Ever. We don’t follow you around with ads. We don’t track you in or out of private browsing mode.
