@@ -1,8 +1,7 @@
 # Amazing Pages that I found in 2017
 
 ## [Git Hub](https://github.com/open-source)
-
-`https://github.com/open-source`
+	- `The largest open source community in the world`
 
 ## Code Academy
 
