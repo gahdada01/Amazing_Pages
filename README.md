@@ -13,11 +13,12 @@
 ### Web Tools
 
 #### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
-   - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
 ##### [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax.
 
 ##### [GitHubPages](https://pages.github.com/) - Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+   - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
    
 ## Fiddle
 
