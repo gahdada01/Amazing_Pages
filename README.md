@@ -3,6 +3,7 @@
 
 ## Table of Contents
    - [Development](#development)
+        - [Project Management](#project-managemnet)
    		- [Web](#web-tools)
    		- [Editor](#ide)
    		- [Design](#design)
@@ -13,21 +14,25 @@
 
 
 
-### Web Tools
-
-#### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
-
-##### [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax.
-
-##### [GitHubPages](https://pages.github.com/) - Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
-
-   - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
+### Project Management
 
 #### [Trello](https://trello.com/) - Trello lets you work more collaboratively and get more done.
    - Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way. 
 
 #### [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
    - Slack is where you access the messages, the files, the decisions, the key moments in the life of your business. It's where work happens.
+
+
+
+### Web Tools
+
+#### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
+
+#### [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax.
+
+#### [GitHubPages](https://pages.github.com/) - Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+   - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
 #### [repl.it](https://repl.it/sessions) - Is to make programming more accessible. We build powerful yet simple tools and platforms for educators, learners, and developers.
    - Simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
