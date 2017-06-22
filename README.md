@@ -79,6 +79,20 @@ http://inspirationalpixels.com/articles/dribbble-shots-week-1
 http://inspirationalpixels.com/snippets/social-color-variables-sass
 ```
 
+#### [Call Me Nick](http://callmenick.com/) - Tutorials, Snippets, Articles, Resources and Projects.
+   - Web Design, Web Development, & App Development.
+
+```
+http://callmenick.com/post/animating-css-only-hamburger-menu-icons
+http://callmenick.com/_development/icons-css3-transitions/index.html
+```
+
+#### [Site Point](https://www.sitepoint.com/) - We're helping you create a better web. Curated by the whole SitePoint team.
+   - Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design.
+
+#### [Material](https://material.io/) - GUIDELINES & RESOURCES, TOOLS
+   - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences.
+
 
 
 ## IDE
@@ -104,7 +118,7 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### [Dribble](https://dribbble.com/) - Show and tell for designers
    - What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.
-   
+
 ```
 https://dribbble.com/shots/2921655-Dashboard/attachments/606194
 ```
@@ -159,26 +173,14 @@ https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scr
 #### [Web Designer](https://1stwebdesigner.com/) - Helping you build a better web.
    - We are 1stWebDesigner and we’re on a mission to help you build a better web. The content you’ll find on this website has been created by web design professionals, for web design professionals. So whether you’re interested in learning more about web design or you want to contribute your work for the web design community’s edification, we have something for you.
 
-`https://1stwebdesigner.com/`
-`http://hellomonday.com/`
+```
+https://1stwebdesigner.com/
+http://hellomonday.com/
+```
 
-## Site Point
+#### [Medium](https://medium.com/swlh/creative-form-input-field-design-examples-bfe5dd50808a) - Epic form & input field design Trends.
+   - Epic form & input field design Trends.
 
-`https://www.sitepoint.com/`
-
-## Medium
-
-`https://medium.com/swlh/creative-form-input-field-design-examples-bfe5dd50808a`
-
-## Call Me Nick
-
-`http://callmenick.com/post/animating-css-only-hamburger-menu-icons`
-`http://callmenick.com/_development/icons-css3-transitions/index.html`
-
-
-## Material
-
-`https://material.io/`
 
 
 
