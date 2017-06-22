@@ -1,4 +1,4 @@
-# Amazing Pages that I found in 2017
+# Amazing Pages that I found in 2017 👋
 
 
 ## Table of Contents
@@ -37,14 +37,12 @@
 #### [repl.it](https://repl.it/sessions) - Is to make programming more accessible. We build powerful yet simple tools and platforms for educators, learners, and developers.
    - Simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
    
-## Fiddle
+#### [Fiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+   - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
-`http://jsfiddle.net/`
-
-## Stackoverflow
-
-`http://stackoverflow.com/`
-
+#### [Stackoverflow](http://stackoverflow.com/) - Stack Overflow is the largest online community for programmers to learn, share their knowledge, and advance their careers.
+   - Stack Overflow is a community of 7.3 million programmers, just like you, helping each other. 
+Join them; it only takes a minute: 
 
 #### [Heroku](https://www.heroku.com/) - Get straight to building apps.
    - Setting up, operating and maintaining your own platform is not where the race is won. Avoid the risk and complexity, and dedicate your energy to what really matters: building great apps.
@@ -55,26 +53,24 @@
 #### [Semantic](https://semantic-ui.com/) - User Interface is the language of the web. Design Beautiful Websites Quicker.
    - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 
-#### [Sass](http://www.sass-lang.com/) - CSS with superpowers.
-   - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
-
 #### [Nucleo](https://nucleoapp.com/) - Nucleo is a library of icons with super powers.
    - Search, Customize, Export 8387 Icons.
 
-## Bootstrap
+#### [Font Awesome](http://fontawesome.io/) - The iconic font and CSS toolkit.
+   - Font Awesome is a font and icon toolkit based on CSS and LESS. It was made by Dave Gandy for use with Twitter Bootstrap, and later was incorporated into the BootstrapCDN
 
-`http://getbootstrap.com/`
+#### [Bootstrap](http://getbootstrap.com/) - Designed for everyone, everywhere.
+#### [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap.
+   - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 
-## Bootswatch
+#### [Regexr](http://regexr.com/) - Regular expressions.
+   - RegExr uses your browser's RegExp engine for matching, and its syntax highlighting and documentation reflect the JavaScript RegExp standard.
 
-`https://bootswatch.com/`
 
-## Regexr
+#### [Code Pen](https://codepen.io/) - CodePen is a social development environment for front-end designers and developers. 👋
+   - It’s the best place to build and deploy a website, show off your work, build test cases, and find inspiration.
 
-`http://regexr.com/`
-
-## Inspirational Pixels
-
+#### [Inspirational Pixels](http://inspirationalpixels.com/) - Tutorials, Articles, Videos, Freebies and Resources.
    - Inspirational Pixels (or just IP for short) started life back in September of 2013. I wanted a place to share all the tips, tricks and knowledge I learn every day in the hope of helping my fellow web designers and developers improve their craft.
 
 `http://inspirationalpixels.com/`
@@ -104,14 +100,6 @@ You'll love the slick user interface, extraordinary features and amazing perform
 #### [coolhueh](ttps://webkul.github.io/coolhue/) - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
    - Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
 
-#### Fontawesome Icons
-
-`http://fontawesome.io/icons/`
-
-## Code Pen
-
-`https://codepen.io/`
-
 #### [Dribble](https://dribbble.com/) - Show and tell for designers
    - What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.
 
@@ -130,6 +118,9 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en) - Learn keyboard shortcuts and become a pro at using Chrome.
    - Learn keyboard shortcuts and become a pro at using Chrome.
+
+#### [Emojipedia](http://emojipedia.org/) - The emoji search engine. 
+   - The emoji search engine. A fast emoji search experience with options to browse every emoji by name, category, or platform.
 
 #### [Duck Duck Go](https://duckduckgo.com/) - DuckDuckGo is the search engine that doesn't track you.
    - We don’t store your personal information. Ever. We don’t follow you around with ads. We don’t track you in or out of private browsing mode.
@@ -166,7 +157,6 @@ You'll love the slick user interface, extraordinary features and amazing perform
 ## Site Point
 
 `https://www.sitepoint.com/`
-
 
 ## Medium
 
