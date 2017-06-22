@@ -1,29 +1,43 @@
 # Amazing Pages that I found in 2017
 
 ## [Git Hub](https://github.com/open-source)
-### The largest open source community in the world
+### The largest open source community in the world.
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
-## Code Academy
+## [Code Academy](https://www.codecademy.com/)
+### Learn to code interactively, for free.
+   - About Codecademy. It is an education company. But not one in the way you might think. We're committed to building the best learning experience inside and out, making Codecademy the best place for our team to learn, teach, and create the online learning experience of the future.
 
-`https://www.codecademy.com/`
+## [Code House](https://codyhouse.co/)
+### Courses and Libraries for Web Designers.
+   - A free library of HTML, CSS, JS nuggets.
 
-## Code House
+## [Nucleo](https://nucleoapp.com/)
+### Nucleo is a library of icons with super powers.
+   - Search, Customize, Export 8387 Icons.
 
-`https://codyhouse.co/`
+## [RawGit](https://rawgit.com/)
+### RawGit serves raw files directly from GitHub with proper Content-Type headers.
+   - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
-## Duck Duck Go
+## [Duck Duck Go](https://duckduckgo.com/)
+### DuckDuckGo is the search engine that doesn't track you
+   - We don’t store your personal information. Ever. We don’t follow you around with ads. We don’t track you in or out of private browsing mode.
 
-`https://duckduckgo.com/`
-
-## Code Fights
+## [Code Fights](https://codefights.com/)
+### Make coding fun again!
+   - Keep your skills sharp by solving our challenges, or test your mettle against thousands of other engineers by joining a monthly tournament. Advance through skill levels while earning badges and XP for every win.
 
 `https://codefights.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa/description`
 `https://codefights.com/arcade/intro/level-1`
 
-## Coding Bat
+## [Coding Bat](http://codingbat.com/)
+### Code practice of coding problems in Java and Python.
+   - CodingBat is a free site of live coding problems to build coding skill in Java and Python.
 
-`http://codingbat.com/java`
+## [Heroku](https://www.heroku.com/)
+### Get straight to building apps.
+   - Setting up, operating and maintaining your own platform is not where the race is won. Avoid the risk and complexity, and dedicate your energy to what really matters: building great apps.
 
 ## Semantic
 
