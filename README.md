@@ -19,9 +19,6 @@
 #### [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
    - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
-#### [Code Academy](https://www.codecademy.com/) - Learn to code interactively, for free.
-   - About Codecademy. It is an education company. But not one in the way you might think. We're committed to building the best learning experience inside and out, making Codecademy the best place for our team to learn, teach, and create the online learning experience of the future.
-
 #### [Nucleo](https://nucleoapp.com/) - Nucleo is a library of icons with super powers.
    - Search, Customize, Export 8387 Icons.
 
@@ -36,6 +33,9 @@
 
 #### [Duck Duck Go](https://duckduckgo.com/) - DuckDuckGo is the search engine that doesn't track you.
    - We don’t store your personal information. Ever. We don’t follow you around with ads. We don’t track you in or out of private browsing mode.
+
+#### [Code Academy](https://www.codecademy.com/) - Learn to code interactively, for free.
+   - About Codecademy. It is an education company. But not one in the way you might think. We're committed to building the best learning experience inside and out, making Codecademy the best place for our team to learn, teach, and create the online learning experience of the future.
 
 #### [Code House](https://codyhouse.co/) - Courses and Libraries for Web Designers.
    - A free library of HTML, CSS, JS nuggets.
