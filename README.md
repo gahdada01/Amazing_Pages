@@ -82,7 +82,7 @@
 ## Random
 #### Search Engine, Education and Fun Staff
 
-#### [Mac keyboard shortcuts](https://support.office.com/en-us/article/Common-Office-for-Mac-keyboard-shortcuts-307f469a-1a05-4263-9b55-49df19a8b8ff) - Common Office for Mac keyboard shortcuts.
+#### [Common Office for Mac keyboard shortcuts](https://support.office.com/en-us/article/Common-Office-for-Mac-keyboard-shortcuts-307f469a-1a05-4263-9b55-49df19a8b8ff) and [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)- Common Office for Mac keyboard shortcuts.
    - Common Office for Mac keyboard shortcuts.
 
 #### [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en) - Learn keyboard shortcuts and become a pro at using Chrome.
