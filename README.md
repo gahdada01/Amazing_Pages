@@ -17,7 +17,7 @@
 
 ##### [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax.
 
-##### [GitHubPages](https://pages.github.com/) - 
+##### [GitHubPages](https://pages.github.com/) - Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
    
 ## Fiddle
 
