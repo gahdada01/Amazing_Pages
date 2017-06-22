@@ -16,6 +16,8 @@
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
 ##### [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax.
+
+##### [GitHubPages](https://pages.github.com/) - 
    
 ## Fiddle
 
@@ -81,6 +83,10 @@
 ## Random
 #### Search Engine, Education and Fun Staff
 
+#### [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en) - Learn keyboard shortcuts and become a pro at using Chrome.
+   - Learn keyboard shortcuts and become a pro at using Chrome.
+   
+
 #### [Duck Duck Go](https://duckduckgo.com/) - DuckDuckGo is the search engine that doesn't track you.
    - We don’t store your personal information. Ever. We don’t follow you around with ads. We don’t track you in or out of private browsing mode.
 
@@ -132,7 +138,9 @@
 
 
 
-
 ## Material
 
 `https://material.io/`
+
+
+
