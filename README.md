@@ -11,6 +11,8 @@
 
 ## Development
 
+
+
 ### Web Tools
 
 #### [Git Hub](https://github.com/open-source) - The largest open source community in the world.
@@ -37,7 +39,6 @@
 ## Stackoverflow
 
 `http://stackoverflow.com/`
-
 
 
 #### [Heroku](https://www.heroku.com/) - Get straight to building apps.
@@ -75,8 +76,10 @@
 `http://inspirationalpixels.com/articles/dribbble-shots-week-1`
 `http://inspirationalpixels.com/snippets/social-color-variables-sass`
 
+
+
 ## IDE
-##### Integrated development environment
+#### Integrated development environment
 
 #### [60 lists of Recommended IDE](https://www.slant.co/topics/12/~best-programming-text-editors) - 60 lists of IDE 'Recommended Products'.
    - A text editor is a program that is used for the purpose of editing plain text files. In the context of this question, a programming text editor is used for writing code and has features that help developers with their tasks, such as auto-indentation or automatic code formatting.
@@ -108,6 +111,8 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 #### [Paletton](http://paletton.com/) - The Color Scheme Designer.
    - The Color Scheme Designer
+
+
 
 ## Random
 #### Search Engine, Education and Fun Staff
