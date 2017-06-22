@@ -4,6 +4,7 @@
 ## Table of Contents
    - [Development](#development)
    		- [Web](#web-tools)
+   		- [Editor](#ide)
    		- [Design](#design)
    - [Random](#random)
 
@@ -19,10 +20,25 @@
 ##### [GitHubPages](https://pages.github.com/) - Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
+
+#### [Trello](https://trello.com/) - Trello lets you work more collaboratively and get more done.
+   - Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way. 
+
+#### [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
+   - Slack is where you access the messages, the files, the decisions, the key moments in the life of your business. It's where work happens.
+
+#### [repl.it](https://repl.it/sessions) - Is to make programming more accessible. We build powerful yet simple tools and platforms for educators, learners, and developers.
+   - Simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
    
 ## Fiddle
 
 `http://jsfiddle.net/`
+
+## Stackoverflow
+
+`http://stackoverflow.com/`
+
+
 
 #### [Heroku](https://www.heroku.com/) - Get straight to building apps.
    - Setting up, operating and maintaining your own platform is not where the race is won. Avoid the risk and complexity, and dedicate your energy to what really matters: building great apps.
@@ -58,6 +74,12 @@
 `http://inspirationalpixels.com/`
 `http://inspirationalpixels.com/articles/dribbble-shots-week-1`
 `http://inspirationalpixels.com/snippets/social-color-variables-sass`
+
+## IDE
+
+#### [Sublime Text](http://www.sublimetext.com/) - Sublime Text is a sophisticated text editor for code, markup and prose.
+   - Sublime Text is a sophisticated text editor for code, markup and prose.
+You'll love the slick user interface, extraordinary features and amazing performance.
 
 ## Design
 
@@ -125,9 +147,6 @@
 
 `https://www.sitepoint.com/`
 
-## Stackoverflow
-
-`http://stackoverflow.com/`
 
 ## Medium
 
@@ -137,7 +156,6 @@
 
 `http://callmenick.com/post/animating-css-only-hamburger-menu-icons`
 `http://callmenick.com/_development/icons-css3-transitions/index.html`
-
 
 
 ## Material
