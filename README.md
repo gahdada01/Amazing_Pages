@@ -57,6 +57,9 @@
 #### [Angular2](https://angular.io/) - One framework. Mobile & desktop.
    - Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.
 
+#### [Synk](https://snyk.io/) - Snyk continuously finds and fixes vulnerabilities in your dependencies.
+   - Protect and monitor your JavaScript, Ruby and Java apps.
+
 #### [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
    - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 
