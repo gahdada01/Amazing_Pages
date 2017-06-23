@@ -3,14 +3,14 @@
 
 ## Table of Contents
    - [Development](#development)
-         - [Project Management](#project-management)
-         - [Version Control](#version-control)
-   		- [Web](#web-tools)
-         - [Online Compiler](#online-compiler)
-         - [Forum](#forum)
-         - [Articles](#articles)
-   		- [Editor](#ide)
-   		- [Design](#design)
+      - [Project Management](#project-management)
+      - [Version Control](#version-control)
+   	- [Web](#web-tools)
+      - [Online Compiler](#online-compiler)
+      - [Forum](#forum)
+      - [Articles](#articles)
+   	- [Editor](#ide)
+   	- [Design](#design)
    - [Random](#random)
 
 
