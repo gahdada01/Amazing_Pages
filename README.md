@@ -3,8 +3,12 @@
 
 ## Table of Contents
    - [Development](#development)
-        - [Project Management](#project-management)
+         - [Project Management](#project-management)
+         - [Version Control](#version-control)
    		- [Web](#web-tools)
+         - [Online Compiler](#online-compiler)
+         - [Forum](#forum)
+         - [Articles](#articles)
    		- [Editor](#ide)
    		- [Design](#design)
    - [Random](#random)
@@ -24,24 +28,36 @@
 
 
 
-### Web Tools
+### Version Control
 
 #### [Git Hub](https://github.com/open-source) - The largest open source community in the world. [GitHubHelp](https://help.github.com/articles/basic-writing-and-formatting-syntax/) - Basic writing and formatting syntax. [GitHubPages](https://pages.github.com/) - Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
    - Get the most out of open source. Open source software is free for you to use and explore. Get involved to perfect your craft and be part of something big.
 
-#### [repl.it](https://repl.it/sessions) - Is to make programming more accessible. We build powerful yet simple tools and platforms for educators, learners, and developers.
-   - Simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
-   
-#### [Fiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
-   - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+#### [Backlog](http://backlogtool.com/) - Project Management Tool for Developers.
+   - Release high-quality software and web projects, faster.
 
-#### [Stackoverflow](http://stackoverflow.com/) - Stack Overflow is the largest online community for programmers to learn, share their knowledge, and advance their careers.
-   - Stack Overflow is a community of 7.3 million programmers, just like you, helping each other. 
-Join them; it only takes a minute: 
+
+
+### Web Tools
 
 #### [Heroku](https://www.heroku.com/) - Get straight to building apps.
    - Setting up, operating and maintaining your own platform is not where the race is won. Avoid the risk and complexity, and dedicate your energy to what really matters: building great apps.
+
+#### [Node.js](https://nodejs.org/) - As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.
+   - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
+#### [MongoDB](https://www.mongodb.com/) - For the ones who dream big & think ahead to create the things we can’t live without.
+   - The best way to deploy, operate, and scale MongoDB in the cloud. Available on AWS, Azure, and Google Cloud Platform. Easily migrate your data to MongoDB Atlas with zero downtime. MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
+
+#### [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
+   - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
+#### [AngularJS](https://angularjs.org/) - AngularJS lets you extend HTML vocabulary for your application.
+   - HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.
+
+#### [Angular2](https://angular.io/) - One framework. Mobile & desktop.
+   - Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.
 
 #### [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
    - RawGit serves raw files directly from GitHub with proper Content-Type headers.
@@ -63,8 +79,38 @@ Join them; it only takes a minute:
    - RegExr uses your browser's RegExp engine for matching, and its syntax highlighting and documentation reflect the JavaScript RegExp standard.
 
 
+
+### Online Compiler
+
+#### [repl.it](https://repl.it/sessions) - Is to make programming more accessible. We build powerful yet simple tools and platforms for educators, learners, and developers.
+   - Simple, reliable, and portable cloud coding interface. A community of teachers, students and engineers.
+   
+#### [Fiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+   - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+
+#### [Ideone](http://ideone.com/) - Choose a programming language, enter the source code with optional input data... and you are ready to go!
+   - Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
+
+
+
+### Forum
+
+#### [Stackoverflow](http://stackoverflow.com/) - Stack Overflow is the largest online community for programmers to learn, share their knowledge, and advance their careers.
+   - Stack Overflow is a community of 7.3 million programmers, just like you, helping each other. 
+Join them; it only takes a minute.
+
+#### [Reedit](https://www.reddit.com/) - Reddit bridges communities and individuals with ideas, the latest digital trends, and breaking news.
+   - Our mission is to help people discover places where they can be their true selves, and empower our community to flourish.
+
+
+
+### Articles
+
 #### [Code Pen](https://codepen.io/) - CodePen is a social development environment for front-end designers and developers. 👋
    - It’s the best place to build and deploy a website, show off your work, build test cases, and find inspiration.
+
+#### [Tutorialpoints](http://www.tutorialspoint.com/) - The largest Tutorials Library on the web.
+   - Enjoy theory and lab at the same time, right here online.
 
 #### [Inspirational Pixels](http://inspirationalpixels.com/) - Tutorials, Articles, Videos, Freebies and Resources.
    - Inspirational Pixels (or just IP for short) started life back in September of 2013. I wanted a place to share all the tips, tricks and knowledge I learn every day in the hope of helping my fellow web designers and developers improve their craft.
@@ -83,6 +129,27 @@ http://callmenick.com/post/animating-css-only-hamburger-menu-icons
 http://callmenick.com/_development/icons-css3-transitions/index.html
 ```
 
+#### [Web Design](https://webdesign.tutsplus.com/) - Free tutorials, learning guides, and online courses to help you learn web design.
+   - Free tutorials, learning guides, and online courses to help you learn web design. Whether it’s interface design, UX, front-end development, motion design, accessibility, business, or something you’ve not yet discovered, our team of expert instructors have you covered!
+
+```
+https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scratch--webdesign-4975
+```
+
+#### [dzurico](http://www.dzurico.com/) - Blog about Angular and Javascript.
+   - Blog about Angular and Javascript.
+
+#### [Web Designer](https://1stwebdesigner.com/) - Helping you build a better web.
+   - We are 1stWebDesigner and we’re on a mission to help you build a better web. The content you’ll find on this website has been created by web design professionals, for web design professionals. So whether you’re interested in learning more about web design or you want to contribute your work for the web design community’s edification, we have something for you.
+
+```
+https://1stwebdesigner.com/
+http://hellomonday.com/
+```
+
+#### [Medium](https://medium.com/swlh/creative-form-input-field-design-examples-bfe5dd50808a) - Epic form & input field design Trends.
+   - Epic form & input field design Trends.
+
 #### [Site Point](https://www.sitepoint.com/) - We're helping you create a better web. Curated by the whole SitePoint team.
    - Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design.
 
@@ -91,7 +158,7 @@ http://callmenick.com/_development/icons-css3-transitions/index.html
 
 
 
-## IDE
+### IDE
 #### Integrated development environment
 
 #### [60 lists of Recommended IDE](https://www.slant.co/topics/12/~best-programming-text-editors) - 60 lists of IDE 'Recommended Products'.
@@ -156,26 +223,7 @@ https://codefights.com/arcade/intro/level-1
 #### [Coding Bat](http://codingbat.com/) - Code practice of coding problems in Java and Python.
    - CodingBat is a free site of live coding problems to build coding skill in Java and Python.
 
-#### [Web Design](https://webdesign.tutsplus.com/) - Free tutorials, learning guides, and online courses to help you learn web design.
-   - Free tutorials, learning guides, and online courses to help you learn web design. Whether it’s interface design, UX, front-end development, motion design, accessibility, business, or something you’ve not yet discovered, our team of expert instructors have you covered!
 
-```
-https://webdesign.tutsplus.com/articles/css3-transitions-and-transforms-from-scratch--webdesign-4975
-```
-
-#### [dzurico](http://www.dzurico.com/) - Blog about Angular and Javascript.
-   - Blog about Angular and Javascript.
-
-#### [Web Designer](https://1stwebdesigner.com/) - Helping you build a better web.
-   - We are 1stWebDesigner and we’re on a mission to help you build a better web. The content you’ll find on this website has been created by web design professionals, for web design professionals. So whether you’re interested in learning more about web design or you want to contribute your work for the web design community’s edification, we have something for you.
-
-```
-https://1stwebdesigner.com/
-http://hellomonday.com/
-```
-
-#### [Medium](https://medium.com/swlh/creative-form-input-field-design-examples-bfe5dd50808a) - Epic form & input field design Trends.
-   - Epic form & input field design Trends.
 
 
 
