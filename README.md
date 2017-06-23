@@ -16,10 +16,10 @@
 
 ### Project Management
 
-#### [Trello](https://trello.com/) - Trello lets you work more collaboratively and get more done.
+> #### [Trello](https://trello.com/) - Trello lets you work more collaboratively and get more done.
    - Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way. 
 
-#### [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
+> #### [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
    - Slack is where you access the messages, the files, the decisions, the key moments in the life of your business. It's where work happens.
 
 
@@ -131,7 +131,7 @@ https://dribbble.com/shots/2921655-Dashboard/attachments/606194
 ## Random
 #### Search Engine, Education and Fun Staff
 
-#### [Common Office for Mac keyboard shortcuts](https://support.office.com/en-us/article/Common-Office-for-Mac-keyboard-shortcuts-307f469a-1a05-4263-9b55-49df19a8b8ff) and [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)- Common Office for Mac keyboard shortcuts.
+#### [Common Office for Mac keyboard shortcuts](https://support.office.com/en-us/article/Common-Office-for-Mac-keyboard-shortcuts-307f469a-1a05-4263-9b55-49df19a8b8ff) and [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236) - Common Office for Mac keyboard shortcuts.
    - Common Office for Mac keyboard shortcuts.
 
 #### [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en) - Learn keyboard shortcuts and become a pro at using Chrome.
