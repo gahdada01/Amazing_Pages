@@ -229,6 +229,10 @@ https://codefights.com/arcade/intro/level-1
 http://www.javascriptsource.com/passwords/
 ```
 
+#### [blog.jscrambler](https://jscrambler.com/?_ga=2.5923377.308557535.1499045705-2075519561.1499045705) - Jscrambler ensures the integrity of your Web Application on the Client-Side
+```
+https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/
+```
 
 
 
