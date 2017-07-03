@@ -224,6 +224,13 @@ https://codefights.com/arcade/intro/level-1
 #### [Coding Bat](http://codingbat.com/) - Code practice of coding problems in Java and Python.
    - CodingBat is a free site of live coding problems to build coding skill in Java and Python.
 
+#### [JavaScriptSource](http://www.javascriptsource.com) - The JavaScript Source is an excellent JavaScript resource with tons of "cut and paste" JavaScript examples for your Web pages. All for free!
+```
+http://www.javascriptsource.com/passwords/
+```
+
+
+
 
 
 
