@@ -234,6 +234,12 @@ http://www.javascriptsource.com/passwords/
 https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/
 ```
 
+#### [hivelogic](http://hivelogic.com/) - Hivelogic is a website about tech, code, podcasting, creativity, and the mind, written by Dan Benjamin of 5by5 Studios since 2000.
+
+```
+http://hivelogic.com/articles/top-10-programming-fonts/
+```
+
 
 
 
