@@ -243,6 +243,10 @@ http://hivelogic.com/articles/top-10-programming-fonts/
 #### [unetbootin.github.io](http://unetbootin.github.io/) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions without burning a CD.
 
 
+#### [Laravel 5 on Windows)](https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji) - How to install Laravel 5 with Xampp (Windows).
+
+
+
 
 
 
