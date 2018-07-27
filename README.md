@@ -113,7 +113,7 @@ Join them; it only takes a minute.
 
 ### How to be Backend Developer
 
-#### (To be a Backend Developer)(https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
+#### [To be a Backend Developer](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 
 ### Articles
 
