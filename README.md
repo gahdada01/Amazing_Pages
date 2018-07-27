@@ -11,8 +11,9 @@
    - [Articles](#articles)
    - [Editor](#ide)
    - [Design](#design)
+   - [Practices](#practices)
+   - [How to be Backend Developer](#backenddev)
 - [Random](#random)
-
 
 ## Development
 
@@ -103,7 +104,16 @@ Join them; it only takes a minute.
 #### [Reedit](https://www.reddit.com/) - Reddit bridges communities and individuals with ideas, the latest digital trends, and breaking news.
    - Our mission is to help people discover places where they can be their true selves, and empower our community to flourish.
 
+### Practices
 
+#### [Code Standard Practices](https://github.com/gahdada01/javascript)
+#### [NPM Practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/)
+#### [Nodejs Project Structure Practices](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
+#### [Nodejs Rest API Practices](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
+
+### How to be Backend Developer
+
+#### (To be a Backend Developer)(https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 
 ### Articles
 
